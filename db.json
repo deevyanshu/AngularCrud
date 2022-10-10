@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "fresh product",
+      "date": "2022-10-06T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 100,
+      "comment": "fresh mango",
+      "date": "2022-10-06T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Samsung",
+      "category": "Electronics",
+      "freshness": "Second hand",
+      "price": 59000,
+      "comment": "Refurbished",
+      "date": "2022-09-30T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Redmi",
+      "category": "Electronics",
+      "freshness": "Brand new",
+      "price": 10000,
+      "comment": "Brand new",
+      "date": "2022-10-05T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "One plus",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 15000,
+      "comment": "Refurbished item",
+      "date": "2022-10-13T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Nothing",
+      "category": "Electronics",
+      "freshness": "Brand new",
+      "price": 38000,
+      "comment": "New smartphone",
+      "date": "2022-10-13T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
